@@ -1,5 +1,5 @@
 {
-    "name": "hoppinger/easy-wpml-copy",
+    "name": "paulhuisman/ez-wpml-copy",
     "description": "Easy WPML Copy",
     "license": "GPLv2 or later",
     "type": "wordpress-plugin",
