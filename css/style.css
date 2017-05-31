@@ -1,0 +1,13 @@
+.easy-wpml-copy-table .submit-button-info {
+  margin: 5px 0 0 6px;
+  display:inline-block;
+  font-size: 11px;
+  font-style: italic;
+}
+.easy-wpml-copy-table .informative {
+  font-weight: normal;
+  font-size: 11px;
+}
+body.toplevel_page_easy-wpml-copy .notice {
+  margin-left: 0;
+}
